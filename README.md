@@ -1,4 +1,4 @@
-# OpenCart
+# 4kedCart - a Modified version of OpenCart
 
 ## Overview
 
